@@ -18,3 +18,5 @@
 
 ![](https://visitcount.itsvg.in/api?id=bhargaviamillineni&icon=0&color=0)
 
+# 📈 Contribution Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=bhargaviamillineni&theme=react-dark&hide_border=true)
